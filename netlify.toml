@@ -1,5 +1,5 @@
 [[redirects]]
   from="/*"
-  to = "http://ipv6.005291.xyz:81/:splat"
+  to = "http://ipv6.005290.xyz:5666/:splat"
   status = 200
   force = true
