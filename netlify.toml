@@ -1,5 +1,5 @@
-[重定向]]
-  从="/*"
-  到 = "http://005291.xyz:81/:splat"
-  状态 = 200
-  强制 = 真
+[[redirects]]
+  from="/*"
+  to = "http://005291.xyz:81/:splat"
+  status = 200
+  force = true
